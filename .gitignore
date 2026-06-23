@@ -1,0 +1,12 @@
+# Build output
+bin/
+obj/
+# MonoGame Content Pipeline
+Content/bin/
+Content/obj/
+# Visual Studio
+.vs/
+*.user
+*.suo
+# VS Code
+.vscode/
